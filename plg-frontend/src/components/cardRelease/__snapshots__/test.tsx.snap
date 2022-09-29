@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardRelease Component renders correctly 1`] = `
+<header
+  class="styles__Container-sc-1u0rdqk-0"
+>
+  <div
+    class="styles__Card-sc-1u0rdqk-3 brPiqr"
+  >
+    <img
+      alt="Starlink 4-35 (v1.5)"
+      class="styles__CardImage-sc-1u0rdqk-4 jpbJCI"
+      src="https://images2.imgbox.com/e3/cc/hN96PmST_o.png"
+    />
+    <div
+      class="styles__CardOverlay-sc-1u0rdqk-1 gfeRBZ"
+    >
+      <div
+        class="styles__CardHeader-sc-1u0rdqk-2 esiKUe"
+      >
+        <svg
+          class="styles__CardArc-sc-1u0rdqk-5 iVbTlg"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path />
+        </svg>
+        <img
+          alt="Starlink 4-35 (v1.5)"
+          class="styles__CardThumb-sc-1u0rdqk-6 cXYgJW"
+          src="https://images2.imgbox.com/a9/9a/NXVkTZCE_o.png"
+        />
+        <div
+          class="styles__CardHeaderText-sc-1u0rdqk-7 ehbYzA"
+        >
+          <h3
+            class="styles__CardTitle-sc-1u0rdqk-8 fZgplc"
+          >
+            Starlink 4-35 (v1.5)
+          </h3>
+        </div>
+      </div>
+      <p
+        class="styles__CardDescription-sc-1u0rdqk-9 fKkkHG"
+      >
+        Lorem ipsum
+      </p>
+    </div>
+  </div>
+</header>
+`;
