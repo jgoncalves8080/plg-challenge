@@ -71,9 +71,12 @@ The main features of the application are:
 
 ## Resources to add on the front
 
+* Implement A/B testing
+* HotJar Script Integration
 * Input for order search
 * Modal to view launch details
 * More test coverage (TDD)
+* Compile HotJar data
 
   ## Authors
 
